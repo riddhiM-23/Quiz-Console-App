@@ -1,1 +1,1 @@
-### Quiz Console App is a Java-based command-line application that allows users to answer multiple-choice questions, calculates the final score, and demonstrates core Java concepts such as classes, objects, arrays, constructors, encapsulation, and user input handling.
+#### Quiz Console App is a Java-based command-line application that allows users to answer multiple-choice questions, calculates the final score, and demonstrates core Java concepts such as classes, objects, arrays, constructors, encapsulation, and user input handling.
